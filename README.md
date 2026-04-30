@@ -19,5 +19,5 @@ pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu12
 pip install jupyter scikit-learn pillow numpy joblib gradio
 ```
 
-Run each notebook block step by step, feature extraction will create .npy files which can be used to skip future extractions using the next codeblock down.
+Run each notebook block step by step, feature extraction will create .npy files which can be used to skip future extractions on the same dataset. Make sure to delete those files if you alter the dataset.
     
