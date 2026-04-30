@@ -1,10 +1,10 @@
 # Datasets / image folders
-image_dataset/
-temp/
 *.jpg
 *.jpeg
 *.png
 *.webp
+*.csv
+*.xlsx
 
 # Gradio flagged uploads
 .gradio/
