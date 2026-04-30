@@ -29,3 +29,6 @@
 # Python
 __pycache__/
 *.pyc
+
+# But allow folder placeholder files
+!.gitkeep
