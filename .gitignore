@@ -1,0 +1,31 @@
+# Datasets / image folders
+image_dataset/
+temp/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Gradio flagged uploads
+.gradio/
+
+# Extracted features
+*.npy
+
+# Saved models
+*.joblib
+*.pkl
+*.pt
+*.pth
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
